@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
-    <title>POWER BI</title>
+    <title> Sucata de Pneus </title>
     <meta charset="utf-8">
+                             <span style="font-size: 100px; margin: 210px 5;"
+  >Power Bi: Sucata de Pneus</span
   </head>
   <body>
-    <iframe title="KEVIN ANALISE DE CONSERTO" width="1932" height="803.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWFkNmMwMDMtMjRiYy00MzFhLWFmNDMtMTcyODY4YjA0YTU0IiwidCI6ImIyZmE0MzA0LWVmNDgtNGVkMy1iZThkLWZiNDQ2NDYxMDUzOCJ9" frameborder="0" allowFullScreen="true"></iframe>
-  </body>
-  
-  <body>
-    <iframe title="BI POWER" width="800" height="1920.5" src="https://app.powerbi.com/view?r=eyJrIjoiNGU2NjE2YmYtZWNhYS00MTcwLWE1MzEtNzI4OTk5N2E1ZTg2IiwidCI6ImIyZmE0MzA0LWVmNDgtNGVkMy1iZThkLWZiNDQ2NDYxMDUzOCJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+ <iframe title="BI sucata" width="1600" height="1373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZDdjNzZiMWUtYjUwMy00MDI2LTk2YzItNjE2OTYzMWYwMzAyIiwidCI6ImIyZmE0MzA0LWVmNDgtNGVkMy1iZThkLWZiNDQ2NDYxMDUzOCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
   </body>
 </html>
